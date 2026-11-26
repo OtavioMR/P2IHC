@@ -1,1 +1,3 @@
-# P2IHC
+# OfficeSupply Online — Teste A/B
+
+Abra index.html com Live Server ou publique a pasta na Vercel (Other, sem build). Os arquivos product-page-control.html e style-control.css são cópias byte a byte dos originais. O controle original não tem carrinho funcional e termina com HTML incompleto; foi preservado por solicitação. A variante usa CSS separado baseado no original, 10 produtos (8 fictícios, com ilustrações SVG), banner e carrinho local. Os cinco premium são os mais caros do catálogo, não margens comprovadas. Compra simulada. A escolha manual é para demonstração; para teste real, igualar catálogo e funcionalidades nas versões, randomizar usuários e medir margem de contribuição.
